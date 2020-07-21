@@ -1,7 +1,7 @@
 package com.epam.solid;
 
 /**
- * Hello world!
+ * Hello world!!
  *
  */
 public class App 
